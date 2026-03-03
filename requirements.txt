@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic[email]
+pydantic-settings
+sqlalchemy
+psycopg2-binary
+python-dotenv
+python-multipart
+PyPDF2
+python-docx
+scikit-learn
+joblib
+pandas
+google-generativeai
+# Add other dependencies here
