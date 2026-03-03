@@ -1,4 +1,4 @@
-# AI Resume Analyzer 🚀
+# ResumeXAI 🚀
 
 A professional, production-ready AI-powered platform designed to analyze resumes against job descriptions with high precision. This project leverages Machine Learning, Natural Language Processing (NLP), and Generative AI to provide deep insights into candidate suitability, selection probability, and resume quality.
 
